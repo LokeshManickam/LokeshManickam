@@ -50,4 +50,3 @@ form.addEventListener("submit", async (e) => {
     submitBtn.innerText = "Send Message";
   }, 2000);
 });
-
